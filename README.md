@@ -1,3 +1,8 @@
+# Description
+
+This project is the result of following the instructions given by the teacher Fernando Herrera ([@fernando_her85](https://twitter.com/Fernando_Her85)) on his course [Angular: De cero a experto](https://www.udemy.com/share/1041fw3@k3OMYQipP7U9xJypqdAjSMZK-UJkj_eZ_xhYRbQ9LrSzli4bvoSZkqMEoU1QS5ZO/) 
+
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
